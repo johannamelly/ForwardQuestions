@@ -11,3 +11,4 @@
 	- The Wikidata code of the predicate as proposed in the original file or mapped from the DBPedia predicate
 	- The extracted object of the question (if the question come from the SimpleQuestionsWikidata set, as the object of the question is not specified in the SimpleDBPediaQA set)
 	- The Wikidata code of the object as proposed in the original file (if the question come from the SimpleQuestionsWikidata set)
+- `predicates_distribution.pdf` : this file contains all the different predicates that can be found in the dataset, ordered by frequency
